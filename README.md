@@ -3,7 +3,6 @@
 ## SUMÁRIO
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Tecnologias](#tecnologias)
-- [Instruções para executar o projeto](#instruções-para-executar-o-projeto)
 
 ---
 
@@ -17,18 +16,6 @@ Uma página HTML estilizada com CSS contendo uma série de informações sobre o
 
 Neste projeto, fui capaz de:
 
-* Utilizar _HTML_ para construir páginas WEB.
+* Utilizar _HTML_ para construir uma página WEB.
 * Utilizar _HTML_ semântico para tornar minha página mais acessível e melhor ranqueada.
 * Utilizar _CSS_ para adicionar estilo e posicionar elementos.
-
----
-
-## Instruções para executar o projeto
-
-1. Entre na pasta do repositório
-  * `cd project-lessons-learned`
-
-2. Instale as dependências:
-  * `npm install`
-
-3. Utilize alguma extensão para visualizar a página (p. ex.: LiveServer no VSCode)
