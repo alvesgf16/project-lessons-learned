@@ -5,6 +5,8 @@
 - [Tecnologias](#tecnologias)
 - [Instruções para executar o projeto](#instruções-para-executar-o-projeto)
 
+---
+
 ## O que foi desenvolvido
 
 Uma página HTML estilizada com CSS contendo uma série de informações sobre o que aprendi na Trybe ao longo dos primeiros três blocos. Meu site está com elementos posicionados e estilizados e, além disto, contém semântica apropriada para que seja acessível e melhor ranqueado.
@@ -30,5 +32,3 @@ Neste projeto, fui capaz de:
   * `npm install`
 
 3. Utilize alguma extensão para visualizar a página (p. ex.: LiveServer no VSCode)
-
----
